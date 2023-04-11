@@ -1,6 +1,6 @@
 aiohttp
 Pillow
 psutil
-pyrogram
+Pyrogram==1.4.16
 https://github.com/Tinche/aiofiles/archive/master.zip
 tgcrypto
